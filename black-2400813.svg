@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4.2103in" height="4.2096in" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="h">
+   <stop stop-color="#fdd99b" offset="0"/>
+   <stop stop-color="#565248" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="482.96" x2="483.58" y1="334.23" y2="466.79" gradientTransform="translate(217.15 156.78)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="j" x1="482.96" x2="483.58" y1="334.23" y2="466.79" gradientTransform="matrix(0 1 -1 0 1194.9 165.74)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="k" x1="482.96" x2="483.58" y1="334.23" y2="466.79" gradientTransform="matrix(0 1 1 0 211.3 165.74)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="l" x1="482.96" x2="483.58" y1="334.23" y2="466.79" gradientTransform="matrix(1 0 0 -1 218.95 1139.6)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <filter id="m" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.5418419"/>
+  </filter>
+  <filter id="n" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.6463576"/>
+  </filter>
+ </defs>
+ <g transform="translate(-21.312 -100.07)">
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <ellipse cx="211.74" cy="291.88" rx="22.526" ry="23.427" color="#000000" fill="#980101" stroke="#000" stroke-width="6.715"/>
+   <g transform="translate(-491.97 -358.61)" filter="url(#m)" opacity=".54" stroke="#000" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000"/>
+   </g>
+   <g transform="translate(-491.97 -358.61)" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000" stroke="url(#i)"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000" stroke="url(#j)"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000" stroke="url(#k)"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000" stroke="url(#l)"/>
+   </g>
+   <g transform="matrix(.56091 .48188 -.48188 .56091 128.77 -412.89)" filter="url(#n)" opacity=".54" stroke="#000" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000"/>
+   </g>
+   <g transform="matrix(.56091 .48188 -.48188 .56091 128.77 -412.89)" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000" stroke="url(#i)"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000" stroke="url(#j)"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000" stroke="url(#k)"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000" stroke="url(#l)"/>
+   </g>
+   <g transform="matrix(.029695 .52819 -.52819 .029695 531.77 -100.49)" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000" stroke="url(#i)"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000" stroke="url(#j)"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000" stroke="url(#k)"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000" stroke="url(#l)"/>
+   </g>
+   <g transform="matrix(-.19462 .25436 -.25436 -.19462 512.08 237.21)" stroke-width="5.605">
+    <path d="m681.35 621.23-43.63-77.821 63.76-46.419 63.85 46.295-43.03 77.945z" color="#000000" stroke="url(#i)"/>
+    <path d="m730.41 629.94 77.821-43.63 46.419 63.76-46.295 63.85-77.945-43.03z" color="#000000" stroke="url(#j)"/>
+    <path d="m675.75 629.94-77.821-43.63-46.419 63.76 46.295 63.85 77.945-43.03z" color="#000000" stroke="url(#k)"/>
+    <path d="m683.15 675.19-43.63 77.821 63.76 46.419 63.85-46.295-43.03-77.945z" color="#000000" stroke="url(#l)"/>
+   </g>
+  </g>
+ </g>
+</svg>

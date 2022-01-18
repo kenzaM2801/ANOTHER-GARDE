@@ -1,0 +1,211 @@
+.video-overlay{
+ position:absolute;
+  z-index:9999999999;
+}
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.video-responsive { 
+  overflow:hidden; padding-bottom:40.25%; position:relative; height:0;}
+
+.video-responsive iframe 
+{  position: absolute;
+    margin: 0;
+    left: 20%;
+  }
+    div {
+  text-align: center;
+}
+.hero {
+  background-color: #000000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(pexels-kira-schwarz-8433042.jpg);
+  background-position: center;
+  background-size: cover;
+   width: 700px;
+  height: 1053px;
+  padding: 0;
+  color: #ffffff;
+  padding: 1em;
+  text-align: right;
+  float: left;
+und-position:center;
+}
+.colour {
+  background-color: #000000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(pexels-enfantnocta-3732896.jpg);
+  background-position: right;
+  background-size: cover;
+   width: 700px;
+  height: 1053px;
+  padding: 0;
+  color: #ffffff;
+  padding: 1em;
+  float: right;
+  text-align: center;
+und-position:right;
+}
+.flowers {
+  background-color: #000000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(jaufar-ali-HuR8I5e1TjM-unsplash.jpg);
+  background-position: left;
+  background-size: cover;
+   width: 1100px;
+  height: 953px;
+  padding: 0;
+  color: #ffffff;
+  padding: 3em;
+  float: right;
+  text-align: left;
+und-position:left;
+
+}
+html}
+* {font-family: "Syncopate", Courier, monospace}
+{ color:Goldenrod ; 
+}
+      p {
+        font-family: 'Syncopate', sans-serif;
+  display: block;
+  color: antiquewhite  ;
+  text-align: center;
+font-weight : normal}
+
+html, body {
+  height: 100%;
+  background-color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right ;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 20px;
+  text-decoration: none;
+  border:1px solid #FFE4E1;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+body {
+  margin: 1;
+}
+.Introduction {
+text-align:center;
+color:Cornsilk;
+}
+
+h1 {
+  font-family: 'Syncopate', sans-serif;
+  color:Cornsilk ;
+  text-transform: uppercase;
+  letter-spacing: 1.8vw;
+  line-height: 1.2;
+  font-size: 3vw;
+  text-align: center;
+  span }
+    display: block;
+    font-size: 10vw;
+    letter-spacing: -1.3vw;
+  {
+    }
+h2 {
+  font-family: 'Didot', sans-serif;
+  color: Pink  ;
+  text-transform: uppercase;
+  letter-spacing: 0.9vw;
+  line-height: 1.2;
+  font-size:2.5vw;
+  span }
+    display: block;
+    font-size: 4vw;
+    letter-spacing: -1.2vw;
+  {
+  }
+    h3 {
+  font-family: 'Didot', sans-serif;
+  color: PapayaWhip ;
+  text-transform: uppercase;
+  letter-spacing: 0.9vw;
+  line-height: 1.7;
+  font-size: 2vw;
+span}
+    display: block;
+    font-size: 2vw;
+    letter-spacing: -1.2vw;
+  }
+.Global {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+
+ }
+#Global #gauche {
+    float:left;
+      text-align: right;
+        width:45%;  
+    padding-right:50px
+}
+#Global #droite {
+     float:left;
+      text-align: left;
+         padding-left:50px 
+           width:55%;
+         }
+             .footer {
+               text-align: right;
+  padding: 2px;
+    background-image: url(marble-2389904_640.jpg);
+  color: white;
+}
+#color {
+  border: 0.4rem outset DarkRed ;
+  outline: 0.3rem solid BurlyWood       ;
+  box-shadow: 0 0 0 2rem black   ;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+}
+
+ table{
+    border-collapse: collapse}
+}
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+  color: Cornsilk;
+  tfloat:right;
+}
+tr{
+  border: 1px solid black;
+  padding: 10px;
+  color: Cornsilk;
+  tfloat:center;
+}
+legend {
+    color: white;
+   tfloat:center;
+}
+
+.output {
+    font: 1rem 'Didot', sans-serif;
+}
+a[href^="mailto"]::before {
+content: "📧 ";
+}
+
